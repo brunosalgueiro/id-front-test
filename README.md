@@ -1,9 +1,9 @@
-## Front-End Teste de UI - Intercâmbio Direto
+# Intercâmbio Direto - Teste de UI
 
-# Objetivo
+## Objetivo
 Esse teste tem como objetivo avaliar a capacidade, o conhecimento e o nível das habilidades técnicas do candidato.
 
-# Desafio
+## Desafio
 O desafio será dividido em 2 partes, onde ambas consistem em implementar uma tela que simula os detalhes de uma escola parceira e seus respectivos cursos, essa tela é muito próxima da nossa realidade e reflete as informações que usamos no dia-a-dia da IntercambioDireto.com.
 
 *Primeira parte do desafio:* Iremos disponibilizar um protótipo, somente com a versão Desktop, onde deverá ser implementado o código normalmente. 
@@ -29,12 +29,12 @@ Link do protótipo: https://xd.adobe.com/view/d8c52d47-ae2d-45a1-48ee-30a784b33f
 - Material-Ui
 - JSS ou Styled-Components
 
-# Prazo 
+## Prazo 
 
 7 dias corridos à contar da data de recebimento do teste.
 
 
-# Entregável
+## Entregável
 
 O entregável deve ser production ready, então coloque todas as boas práticas que você puder. A entrega deve ser feita através de algum repositório de código baseado em GIT (bitbucket, gitlab, github, etc...)
 
