@@ -1,4 +1,4 @@
-Front-End Teste de UI
+## Front-End Teste de UI - Intercâmbio Direto
 
 # Objetivo
 Esse teste tem como objetivo avaliar a capacidade, o conhecimento e o nível das habilidades técnicas do candidato.
@@ -21,16 +21,21 @@ Link do protótipo: https://xd.adobe.com/view/d8c52d47-ae2d-45a1-48ee-30a784b33f
 *Premissas:*
 - Não iremos avaliar pixel perfect (adaptações serão aceitas)
 - Fonte padrão deve ser a ROBOTO
-- Iconografia pode utilizar uma biblioteca de preferência
+- Iconografia pode utilizar uma biblioteca do próprio material
 
-*Stack de tecnologia desejada (Não obrigatório)*
+*Stack de tecnologia desejada*
 - React.js (Framework)
 - Next.js
 - Material-Ui
 - JSS ou Styled-Components
 
-# Entrega
+# Prazo 
 
-A entrega deve ser feita através de algum repositório de código baseado em GIT (bitbucket, gitlab, github, etc...)
+7 dias corridos à contar da data de recebimento do teste.
+
+
+# Entregável
+
+O entregável deve ser production ready, então coloque todas as boas práticas que você puder. A entrega deve ser feita através de algum repositório de código baseado em GIT (bitbucket, gitlab, github, etc...)
 
 Enviar link do repositório para bruno@intercambiodireto.com
